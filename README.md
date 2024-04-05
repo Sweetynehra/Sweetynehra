@@ -1,6 +1,6 @@
-- 👋 Hello everyonr, I’m @Sweetynehra
-- 👀 I have keen interest in Wep Development and new technologies.
-- 🌱 I’m currently learning React.js, Node.js, APIs
+- 👋 Hello everyone, I’m @Sweetynehra
+- 👀 I have keen interest in Web Development and learning new technologies.
+- 🌱 I’m currently learning React.js, Node.js, APIs.
 - 💞️ I’m looking to collaborate with various open source controbutions.
 
 
